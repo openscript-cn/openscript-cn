@@ -1,4 +1,4 @@
-🌟 日常脚本小助手 🎉
+🌟 开放脚本 / web:https://openscript.cn 🎉
 嘿，亲爱的朋友们！🎈
 
 你是不是每天都在 macOS、Linux、Windows 的命令行里战斗，感觉手指都快打结了？🤔 你是不是有时候只是想快速执行一个任务，却发现每次都要输入一堆繁琐的命令，浪费了宝贵的时间？😩
@@ -31,7 +31,8 @@ macOS/Windows/Linux 快速安装工具：一键安装常用软件包，省时省
 
 使用这些脚本时，别忘了给我点个星星哦！🌟 这样我就知道你喜欢这个项目啦！🥳
 
-🌟 Daily Scripts Helper 🎉
+
+🌟 openscirpt-cn / web:https://openscript.cn 🎉
 Hey there, fellow coder! 🎈
 
 Are you tired of fighting with the command line every day on macOS, Linux, or Windows? 🤔 Does it feel like your fingers are getting tied up just trying to type out those long, repetitive commands? 😩
