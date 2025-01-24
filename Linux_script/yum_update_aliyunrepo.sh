@@ -2,8 +2,6 @@
 # 提示：脚本来源
 echo -e "\n\033[1;32m★★★ 脚本来源/Script source ★★★\033[0m"
 echo -e "\033[1;34m\033[0m\033[1;36mhttps://github.com/openscript-cn/openscript-cn\033[0m\n" 
-#!/bin/bash
-
 # 删除原有的 repo 文件
 echo "删除原有的 repo 文件..."
 rm -f /etc/yum.repos.d/*.repo
